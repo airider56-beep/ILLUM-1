@@ -1,0 +1,164 @@
+[
+  {
+    "id": "proj-1793806924712-9p6c5",
+    "name": "andy",
+    "status": "Source Ready",
+    "duration": 32,
+    "targetDurationSeconds": 32,
+    "durationMode": "parts",
+    "selectedPartCount": 4,
+    "calculatedPartCount": 4,
+    "language": "Hindi",
+    "aspectRatio": "9:16",
+    "createdAt": "2026-11-04T15:42:04.712Z",
+    "updatedAt": "2026-11-04T15:42:25.332Z",
+    "sourceStory": {
+      "text": "Democrats Take Control Of US Congress. What It Means For India\n\nWith Democrats controlling both chambers in the midterms, they gain stronger leverage over legislation, investigations and funding.\n\n\nWashington:\nDemocrats have taken control of the US Congress after picking up five Senate seats in the 2026 midterm elections, as well as more than a half-dozen House districts. The outcome is seen as a direct repudiation of US President Donald Trump, who urged voters to pretend he was on the ballot.\n\nThe elections were a nationwide verdict on Trump's turbulent second term, with discontent over living costs, tariffs and the US war against Iran, which has driven fuel prices sharply higher, weighing on Republicans as the president's approval ratings languish near record lows. Most voters appear to blame Trump's administration for high costs and want Congress to impose more checks on him, according to The AP Voter Poll.\n\nWhat Democratic Congress Means for India\nWith Democrats controlling both chambers in the midterms, they gain stronger leverage over legislation, investigations and funding. Congress, however, would not automatically take charge of US foreign policy, as President Trump would retain broad executive powers, including the veto.\n\nFor India, the stakes are real. Decisions made by Congress and the US government can shape Indian exports, the fortunes of Indian professionals working in America, and bilateral defence cooperation.\n\nA Democratic majority could trigger more debate and legislative activity on tariffs, healthcare, the cost of living and curbs on presidential war powers. Whether any of it becomes law would hinge on the final size of the margins, Senate procedure and how Trump responds.\n\nTrade And Tariffs\nThe US is a major market for Indian goods, so any shift in American tariff policy hits exporters directly. In February, the two countries unveiled a framework for an interim trade agreement, under which the US said it would levy an 18 per cent reciprocal tariff on Indian-origin goods. Since then, the US Supreme Court has struck down Trump's use of emergency powers to impose tariffs on trading partners worldwide, pulling tariffs down to a baseline of 10 per cent.\n\nHowever, a full India-US deal still looks distant. Secretary of State Marco Rubio earlier this month told the media that the India-US trade deal is close to finalisation. FOLLOW LIVE UPDATES\n\nH-1B Visas and Immigration\nThe election results could also have an impact on Indian professionals in the US, especially H-1B holders. A shift in control of Congress could influence future immigration legislation and oversight, though it would not necessarily bring immediate changes to visa rules.\n\nDemocratic victory could increase congressional scrutiny of immigration rules and put some Republican-backed proposals on hold, even though the outcome would not automatically overturn Trump's presidential proclamations, including the inclusion of a $100,000 fee for new H-1B visa applications, announced last September.\n\nSupport for India in Congress\n\nIf Democrats take both chambers, their leverage would grow, but policy, particularly on foreign relations, would still be limited by Trump's veto, the Senate filibuster and shared political responsibility for the economy. US Treasury Secretary Scott Bessent said last week that even with a Democratic House, there would be \"very little\" they could do to block Trump's agenda.",
+      "sourceType": "pasted_text",
+      "charCount": 3429,
+      "wordCount": 530,
+      "extractionStatus": "success",
+      "version": 1,
+      "fingerprint": "cbe1799ecd92a47f",
+      "updatedAt": "2026-11-04T15:42:25.332Z"
+    }
+  },
+  {
+    "id": "proj-1793799018547-fppun",
+    "name": "Mysteries of the Mariana Trench",
+    "status": "Source Ready",
+    "duration": 45,
+    "language": "English",
+    "createdAt": "2026-11-04T13:30:18.547Z",
+    "updatedAt": "2026-11-04T13:30:34.868Z",
+    "sourceStory": {
+      "text": "In the deepest abyss of the Mariana Trench, researchers made an astonishing discovery: bioluminescent siphonophores extending dozens of meters, communicating with pulsating waves of emerald light.",
+      "sourceType": "pasted_text",
+      "charCount": 196,
+      "wordCount": 26,
+      "extractionStatus": "failed",
+      "updatedAt": "2026-11-04T13:30:24.500Z",
+      "errorMessage": "URL extraction failed (fetch failed). Please copy and paste the story text directly.",
+      "sourceReference": "https://nonexistent-domain-12345.xyz/news"
+    }
+  },
+  {
+    "id": "proj-demo-01",
+    "name": "The Secret of the Antikythera Mechanism",
+    "status": "Script Approved",
+    "duration": 30,
+    "language": "English",
+    "createdAt": "2026-11-04T13:26:47.602Z",
+    "updatedAt": "2026-11-04T13:47:33.949Z",
+    "sourceStory": {
+      "text": "In 1901, divers off the coast of the Greek island of Antikythera discovered a corroded bronze artifact. It turned out to be the world's oldest analog computer, built over 2,000 years ago to accurately predict astronomical positions and eclipses with remarkable gear engineering.",
+      "sourceType": "pasted_text",
+      "charCount": 269,
+      "wordCount": 42,
+      "extractionStatus": "success",
+      "updatedAt": "2026-11-04T13:26:47.602Z"
+    },
+    "currentScript": {
+      "id": "script-1793800024528-co16",
+      "version": 2,
+      "language": "Hindi",
+      "targetDuration": 15,
+      "totalEstimatedDuration": 15,
+      "parts": [
+        {
+          "partNumber": 1,
+          "partType": "Hook",
+          "voiceover": "क्या आप जानते हैं? प्राचीन ग्रीस का यह यंत्र समय से 2000 साल आगे था!",
+          "estimatedDuration": 5
+        },
+        {
+          "partNumber": 2,
+          "partType": "Story",
+          "voiceover": "1901 में खोजा गया यह दुनिया का पहला एनालॉग कंप्यूटर था।",
+          "estimatedDuration": 5
+        },
+        {
+          "partNumber": 3,
+          "partType": "Ending",
+          "voiceover": "यह खोज साबित करती है कि प्राचीन विज्ञान हमारी कल्पना से कहीं आगे था।",
+          "estimatedDuration": 5
+        }
+      ],
+      "flaggedAmbiguities": [
+        "Source text is brief; additional background context may be beneficial."
+      ],
+      "approvalStatus": "Approved",
+      "createdAt": "2026-11-04T13:47:04.528Z",
+      "updatedAt": "2026-11-04T13:47:33.949Z",
+      "modelUsed": "gemini-3.8-flash",
+      "approvedAt": "2026-11-04T13:47:33.949Z"
+    },
+    "scriptVersions": [
+      {
+        "id": "script-1793800015145-6qqu",
+        "version": 1,
+        "language": "English",
+        "targetDuration": 30,
+        "totalEstimatedDuration": 30,
+        "parts": [
+          {
+            "partNumber": 1,
+            "partType": "Hook",
+            "voiceover": "What if everything you thought you knew was wrong? In 1901, divers off the coast of the Greek island of Antikythera discovered a corroded bronze artifact.",
+            "estimatedDuration": 6
+          },
+          {
+            "partNumber": 2,
+            "partType": "Story",
+            "voiceover": "It turned out to be the world's oldest analog computer, built over 2,000 years ago to accurately predict astronomical positions and eclipses with remarkable gear engineering.",
+            "estimatedDuration": 6
+          },
+          {
+            "partNumber": 3,
+            "partType": "Story",
+            "voiceover": "It turned out to be the world's oldest analog computer, built over 2,000 years ago to accurately predict astronomical positions and eclipses with remarkable gear engineering.",
+            "estimatedDuration": 6
+          },
+          {
+            "partNumber": 4,
+            "partType": "Story",
+            "voiceover": "It turned out to be the world's oldest analog computer, built over 2,000 years ago to accurately predict astronomical positions and eclipses with remarkable gear engineering.",
+            "estimatedDuration": 6
+          },
+          {
+            "partNumber": 5,
+            "partType": "Ending",
+            "voiceover": "And that is why this discovery changes everything: It turned out to be the world's oldest analog computer, built over 2,000 years ago to accurately predict astronomical positions and eclipses with remarkable gear engineering.",
+            "estimatedDuration": 6
+          }
+        ],
+        "flaggedAmbiguities": [
+          "Source text is brief; additional background context may be beneficial."
+        ],
+        "approvalStatus": "Needs Review",
+        "createdAt": "2026-11-04T13:46:55.145Z",
+        "updatedAt": "2026-11-04T13:46:55.145Z",
+        "modelUsed": "gemini-3.8-flash"
+      }
+    ],
+    "isDemo": true
+  },
+  {
+    "id": "proj-demo-02",
+    "name": "The Lost Gold of the Indus Valley",
+    "status": "Draft",
+    "duration": 45,
+    "language": "Hindi",
+    "createdAt": "2026-11-04T13:26:47.602Z",
+    "updatedAt": "2026-11-04T13:26:47.602Z",
+    "sourceStory": {
+      "text": "",
+      "sourceType": "pasted_text",
+      "charCount": 0,
+      "wordCount": 0,
+      "extractionStatus": "empty",
+      "updatedAt": "2026-11-04T13:26:47.602Z"
+    },
+    "isDemo": true
+  }
+]

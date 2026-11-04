@@ -1,0 +1,20 @@
+{
+  "package": "ILLYUM PRD & Google AI Studio Build Pack",
+  "created": "2026-11-04",
+  "source": "Approved ILLYUM plan recorded in project context",
+  "files": [
+    "00_START_HERE.md",
+    "01_MASTER_PRD.md",
+    "02_APPROVED_SKILL_SPECIFICATIONS.md",
+    "03_SYSTEM_ARCHITECTURE_AND_DATA_MODEL.md",
+    "04_WORKFLOW_STATUS_AND_GOVERNANCE.md",
+    "05_ACCEPTANCE_TESTS.md",
+    "06_GOOGLE_AI_STUDIO_BUILD_PROMPTS.md",
+    "07_BUILD_TRACKER.csv",
+    "08_CHANGE_LOG.md",
+    "09_SCOPE_GUARDRAILS.md",
+    "ILLYUM_Master_Blueprint.pdf",
+    "PACKAGE_MANIFEST.json"
+  ],
+  "important_note": "The previous PDF binary was unavailable in the current working folder; the included PDF is a regenerated version of the approved blueprint."
+}

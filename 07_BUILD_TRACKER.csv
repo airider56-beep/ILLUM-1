@@ -1,0 +1,12 @@
+Phase,Requirement/Work Item,Status,Evidence/Test,Known Issue,Next Action,User Accepted
+0,"Read PRD, confirm baseline and inspect current AI Studio project",Completed,"Baseline confirmed; tech proposal approved",None,"Proceed to Phase 1",Yes
+1,"App foundation, navigation, project workspace tabs, separate SEO sub-tabs",Completed,"Navigation, 5 workspace tabs, YouTube/Instagram separate sub-tabs verified",None,"Accepted by user",Yes
+2,Project management and source story intake/persistence,Completed,"Server persistence, CRUD, source intake, restart persistence, URL failure verified",None,"Accepted by user",Yes
+3,"Skill 1 Story-to-Script & Source Analysis & 8s Formula Corrections",Completed — Pending User Acceptance,"Mandatory Source Story Analysis pre-stage & UI review; 8s duration formula for 9:16 (24s:3p, 32s:4p, 40s:5p, 48s:6p) and 16:9 (>=3m min, Ceiling(sec/8)); pure Devanagari Hindi vs English validation; single source of truth; navigation/localStorage state persistence; demo project distinction",None,"User review and Phase 3 acceptance",Pending
+3.1,"Skill 0 — Source Story Analysis (Phase 1: Data Model & Backend API)",Completed — Pending User Acceptance,"AnalysisRecord structure, versioning, source fingerprinting, status lifecycle (Needs Review/Approved/Stale), regeneration history preservation, stale invalidation on source change, GET/PUT/POST endpoints verified with 33 automated tests",None,"User review and Skill 0 Phase 1 acceptance",Pending
+4,Skill 2 Script-to-Video prompts,Not Started,,,Implement after Skill 1 acceptance,No
+5,Skill 3 Script-to-Thumbnail prompts,Not Started,,,Implement after Skill 1 acceptance,No
+6,Skill 4 Story & Script-to-SEO; separate YouTube/Instagram,Not Started,,,Implement after Skill 1 acceptance,No
+7,"Orchestration, dependency gates, stale invalidation, history, errors, FR-07 free-model fallback execution",Not Started,,,Implement after skill phases,No
+8,"Copy/export, settings, security, accessibility, FR-07 model discovery & selection, polish",Not Started,,,Implement after Phase 7 acceptance,No
+9,Full acceptance audit and release readiness,Not Started,,,Run all tests in 05_ACCEPTANCE_TESTS.md,No

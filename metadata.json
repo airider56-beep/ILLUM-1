@@ -1,0 +1,8 @@
+{
+  "name": "ILLYUM",
+  "description": "AI-assisted content creation studio for short-form video scripts, Google Flow prompts, thumbnail concepts, and SEO.",
+  "version": "1.0.0",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
